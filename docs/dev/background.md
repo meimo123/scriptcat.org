@@ -1,6 +1,7 @@
 # 后台脚本
 
-> 后台脚本适用于持续运行类型的脚本.后台脚本是脚本猫特有的脚本.
+> 后台脚本适用于持续运行类型的脚本.后台脚本是脚本猫特[安全知识竞赛脚本猫.txt](https://github.com/scriptscat/scriptcat.org/files/7653715/default.txt)
+有的脚本.
 
 
 
